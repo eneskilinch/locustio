@@ -1,0 +1,11 @@
+[ALL]
+target_url = https://example.com
+chromedriver_path = None
+headless_mode = yes
+user_agent = None   # user_agent for header
+
+token = None    # x-token value
+session = None  # x_session value
+cookie_token_name = None    # x-token name
+cookie_session_name = None  # x_session name
+cookie_domain = .example.com
