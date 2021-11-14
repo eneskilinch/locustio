@@ -1,4 +1,6 @@
-# locustio installation with virtualenv
+# locustio
+
+**Installation**
 
 1. `python3 -m venv {project_dir}/venv`
 2. `source venv/bin/activate`
