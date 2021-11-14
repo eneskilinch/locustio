@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+settings.ini
+base/utils/webdrivers/chrome*
 __pycache__/
 *.py[cod]
 *$py.class
