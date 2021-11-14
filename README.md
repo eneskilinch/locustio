@@ -1,6 +1,6 @@
 # locustio installation wiht virtualenv
 
-`python3 -m venv {project_dir}/venv`
-`source venv/bin/activate`
-`python3 -m pip install -r requirements.txt`
-`locust -f locustfile.py`
+1. `python3 -m venv {project_dir}/venv`
+2. `source venv/bin/activate`
+3. `python3 -m pip install -r requirements.txt`
+4. `locust -f locustfile.py`
